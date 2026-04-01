@@ -4,26 +4,6 @@
 
 ---
 
-## Mục Lục
-
-1. [Tính Năng Chính](tính-năng-chính)
-
-2. [Công Nghệ Sử Dụng](công-nghệ-sử-dụng)
-
-3. [Cấu Trúc Dự Án](cấu-trúc-dự-án)
-
-4. [Yêu Cầu Hệ Thống](yêu-cầu-hệ-thống)
-
-5. [Hướng Dẫn Setup Chi Tiết](hướng-dẫn-setup-chi-tiết)
-
-6. [Cách Chạy Dự Án](cách-chạy-dự-án)
-
-7. [Cấu Trúc Database](cấu-trúc-database)
-
-8. [Hướng Dẫn Để Người Khác Clone & Chạy](hướng-dẫn-để-người-khác-clone--chạy)
-
----
-
 ## Tính Năng Chính
 
 ### Cho Người Dùng (User)
@@ -83,7 +63,7 @@
 
 ## Cấu Trúc Dự Án
 
-```
+```bash
 d:\...\myangular/
 ├── db.json                          # Database giả (JSON Server)
 ├── README.md                        # Tài liệu này
